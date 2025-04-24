@@ -1,0 +1,9 @@
+easyocr
+presidio-analyzer
+pdf2image
+opencv-python
+Pillow
+numpy
+torch
+torchvision
+torchaudio
